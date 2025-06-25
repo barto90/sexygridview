@@ -13,6 +13,10 @@ A modern, interactive PowerShell grid viewer with advanced object navigation and
 - **🎯 Interactive Buttons**: Clickable "View Object" buttons for nested data exploration
 - **🔧 Flexible Modes**: Default view (optimized columns) or Full view (all properties)
 
+## 📷 Screenshots
+![Alt text](https://bartpasmans.tech/wp-content/uploads/2025/06/image-56.png)
+![Alt text](https://bartpasmans.tech/wp-content/uploads/2025/06/image-57.png)
+
 ## 📦 Installation
 
 1. **Clone or Download** this repository
