@@ -292,7 +292,7 @@ function New-SearchBar {
     $searchBox.Padding = '5,2'
     $searchBox.FontSize = 12
     $searchBox.Text = 'Search...'
-    $searchBox.Foreground = [System.Windows.Media.Brushes]::LightGray 
+    $searchBox.Foreground = $Theme.TextForeground
 
     $resultsText = New-Object System.Windows.Controls.TextBlock
     $resultsText.Margin = '0,5,0,0'
